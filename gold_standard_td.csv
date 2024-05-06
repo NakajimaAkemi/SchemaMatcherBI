@@ -1,0 +1,11 @@
+﻿GAT,SOURCE,LAT,SLAT
+Nom,S1,Name,S1_Name
+Nom,S2,Nombre,S2_Nombre
+Âge,S1,Age,S1_Age
+Âge,S2,Edad,S2_Edad
+Sexe,S1,Gender,S1_Gender
+Sexe,S2,Género,S2_Género
+Ville,S1,City,S1_City
+Ville,S2,Ciudad,S2_Ciudad
+Profession,S1,Occupation,S1_Occupation
+Profession,S2,Profesión,S2_Profesión

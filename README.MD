@@ -9,4 +9,4 @@ schema matching.
 The colab notebooks are kindly provided by DBgroup from @UNIMORE.
 
 
-For any support and help, feel free to contact me on Telegram @billi_ballo 
+For any support and help, feel free to contact me.
